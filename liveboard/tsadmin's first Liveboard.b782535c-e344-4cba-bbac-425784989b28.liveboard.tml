@@ -1,0 +1,58 @@
+guid: b782535c-e344-4cba-bbac-425784989b28
+liveboard:
+  name: tsadmin's first Liveboard
+  visualizations:
+  - id: Viz_1
+    answer:
+      name: Title
+      tables:
+      - id: "[scal-127410] filter data objects by connection and vice-versa - 3-test_cases_enumeration (1)_6c6febdb-a7b2-4d86-94bb-0dd765aa5e73"
+        name: "[scal-127410] filter data objects by connection and vice-versa - 3-test_cases_enumeration (1)_6c6febdb-a7b2-4d86-94bb-0dd765aa5e73"
+        fqn: 03d75606-ce90-40be-971d-8c228dd0a298
+      search_query: "[Title]"
+      answer_columns:
+      - name: Title
+      table:
+        table_columns:
+        - column_id: Title
+          show_headline: false
+        ordered_column_ids:
+        - Title
+        client_state: ""
+      chart:
+        type: KPI
+        chart_columns:
+        - column_id: Title
+        axis_configs:
+        - "y":
+          - Title
+        client_state: ""
+      display_mode: TABLE_MODE
+    viz_guid: 84cb08d2-2222-4d9a-bbab-202a597825f2
+  - id: Viz_2
+    answer:
+      name: Title
+      tables:
+      - id: "[scal-127410] filter data objects by connection and vice-versa - 3-test_cases_enumeration (1)_6c6febdb-a7b2-4d86-94bb-0dd765aa5e73"
+        name: "[scal-127410] filter data objects by connection and vice-versa - 3-test_cases_enumeration (1)_6c6febdb-a7b2-4d86-94bb-0dd765aa5e73"
+        fqn: 03d75606-ce90-40be-971d-8c228dd0a298
+      search_query: "[Title]"
+      answer_columns:
+      - name: Title
+      table:
+        table_columns:
+        - column_id: Title
+          show_headline: false
+        ordered_column_ids:
+        - Title
+        client_state: ""
+      chart:
+        type: KPI
+        chart_columns:
+        - column_id: Title
+        axis_configs:
+        - "y":
+          - Title
+        client_state: ""
+      display_mode: TABLE_MODE
+    viz_guid: 59b1352f-a9d5-4e10-868e-95f879362446
