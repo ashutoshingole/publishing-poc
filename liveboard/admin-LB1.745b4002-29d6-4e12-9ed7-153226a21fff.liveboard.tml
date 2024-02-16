@@ -1,0 +1,40 @@
+guid: 745b4002-29d6-4e12-9ed7-153226a21fff
+liveboard:
+  name: admin-LB1
+  visualizations:
+  - id: Viz_1
+    answer:
+      name: Title by Author
+      tables:
+      - id: "[scal-127410] filter data objects by connection and vice-versa - 3-test_cases_enumeration (1)_6c6febdb-a7b2-4d86-94bb-0dd765aa5e73"
+        name: "[scal-127410] filter data objects by connection and vice-versa - 3-test_cases_enumeration (1)_6c6febdb-a7b2-4d86-94bb-0dd765aa5e73"
+        fqn: 03d75606-ce90-40be-971d-8c228dd0a298
+      search_query: "[Title] [Author]"
+      answer_columns:
+      - name: Title
+      - name: Author
+      table:
+        table_columns:
+        - column_id: Title
+          show_headline: false
+        - column_id: Author
+          show_headline: false
+        ordered_column_ids:
+        - Title
+        - Author
+        client_state: ""
+        client_state_v2: "{\"tableVizPropVersion\": \"V1\"}"
+      chart:
+        type: PIVOT_TABLE
+        chart_columns:
+        - column_id: Title
+        - column_id: Author
+        axis_configs:
+        - x:
+          - Author
+          "y":
+          - Title
+        client_state: ""
+        client_state_v2: "{\"version\": \"V4DOT2\",\"chartProperties\": {\"chartSpecific\": {\"pivotState\": {\"fields\": [{\"dataField\": \"Author\",\"sortBy\": \"value\",\"sortBySummaryField\": \"\",\"sortOrder\": \"\",\"expanded\": true,\"area\": \"row\"}]},\"pivotSummariesState\": {}}},\"columnProperties\": [{\"columnId\": \"Title\",\"columnProperty\": {}},{\"columnId\": \"Author\",\"columnProperty\": {}}],\"axisProperties\": [{\"id\": \"9b23749b-429c-4c88-ac3e-e53235e765c6\",\"properties\": {\"axisType\": \"Y\",\"linkedColumns\": [\"Title\"],\"isOpposite\": false}},{\"id\": \"5df5fefa-289e-471f-832d-10e47e2fd7a8\",\"properties\": {\"axisType\": \"X\",\"linkedColumns\": [\"Author\"]}}],\"systemSeriesColors\": [{\"serieName\": \"Title\",\"color\": \"#FCC838\"}]}"
+      display_mode: CHART_MODE
+    viz_guid: aadc6d02-d41b-4ea0-b5a3-351493f940e9
